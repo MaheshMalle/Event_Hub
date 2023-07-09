@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809754283711",
+    "project_id": "event-hub-df4ea",
+    "storage_bucket": "event-hub-df4ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809754283711:android:a9eefbbc16c93d9e4ac00a",
+        "android_client_info": {
+          "package_name": "com.example.event_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809754283711-lljc7gs78amaetacrnb4tckr1rkn50le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi7TzaYTui2XXLVQTpUA6uwvFbkS6Q0jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809754283711-lljc7gs78amaetacrnb4tckr1rkn50le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
